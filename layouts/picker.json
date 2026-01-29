@@ -523,7 +523,7 @@
 	    },
 	    {
 		"keysym": "INT2",
-		"label": "Int2"
+		"label": "Kana"
 	    },
 	    {
 		"keysym": "INT3",
@@ -531,11 +531,11 @@
 	    },
 	    {
 		"keysym": "INT4",
-		"label": "Int4"
+		"label": "Henkan"
 	    },
 	    {
 		"keysym": "INT5",
-		"label": "Int5"
+		"label": "Muhenkan"
 	    },
 	    {
 		"keysym": "INT6",
